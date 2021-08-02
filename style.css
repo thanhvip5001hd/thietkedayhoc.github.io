@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-1 {
+    height: 800px;
+    background-image: url("images-1/kl1.jpg");
+    background-size: 100% 1000px;
+    background-repeat: no-repeat;
+    opacity: 0.85;
+    z-index: 1;
+}
+.bg-2 {
+    height: 800px;
+    background-image: url("images-1/bg-phan-loai.jpg");
+    background-size: 100% 1000px;
+    background-repeat: no-repeat;
+    opacity: 0.85;
+    z-index: 1;
+}
+.bg-3 {
+    height: 800px;
+    background-image: url("images-1/bg-sinh-hoc.jpg");
+    background-size: 100% 1000px;
+    background-repeat: no-repeat;
+    opacity: 0.85;
+    z-index: 1;
+}
+.bg-4 {
+    height: 800px;
+    background-image: url("images-1/bg-tong-quan.jpg");
+    background-size: 100% 1000px;
+    background-repeat: no-repeat;
+    opacity: 0.85;
+    z-index: 1;
+}
+.bg-5 {
+    height: 800px;
+    background-image: url("images-1/bg-tien-hoa.jpg");
+    background-size: 100% 1000px;
+    background-repeat: no-repeat;
+    opacity: 0.85;
+    z-index: 1;
+}
+.bg-6 {
+    height: 800px;
+    background-image: url("images-1/bg-su-tuyet-chung.jpg");
+    background-size: 100% 1000px;
+    background-repeat: no-repeat;
+    opacity: 0.85;
+    z-index: 1;
+}
+.bg-7 {
+    height: 800px;
+    background-image: url("images-1/bg-khung-long-3.jpg");
+    background-size: 100% 1000px;
+    background-repeat: no-repeat;
+    opacity: 0.85;
+    z-index: 1;
+}
+.bg-8 {
+    height: 800px;
+    background-image: url("images-1/bg-diplo.jpg");
+    background-size: 100% 1000px;
+    background-repeat: no-repeat;
+    opacity: 0.85;
+    z-index: 1;
+}
+.bg-9 {
+    height: 800px;
+    background-image: url("images-1/bg-mona.jpg");
+    background-size: 100% 1000px;
+    background-repeat: no-repeat;
+    opacity: 0.85;
+    z-index: 1;
+}
+.bg-10 {
+    height: 800px;
+    background-image: url("images-1/bg-ple.jpg");
+    background-size: 100% 1000px;
+    background-repeat: no-repeat;
+    opacity: 0.85;
+    z-index: 1;
+}
+.bg-11 {
+    height: 800px;
+    background-image: url("images-1/bg-stegosaurus.jpg");
+    background-size: 100% 1000px;
+    background-repeat: no-repeat;
+    opacity: 0.85;
+    z-index: 1;
+}
+.bg-12 {
+    height: 800px;
+    background-image: url("images-1/bg-t-rex.jpg");
+    background-size: 100% 1000px;
+    background-repeat: no-repeat;
+    opacity: 0.85;
+    z-index: 1;
+}
+.bg-13 {
+    height: 800px;
+    background-image: url("images-1/Ki-tam-diep.png");
+    background-size: 100% 1000px;
+    background-repeat: no-repeat;
+    opacity: 0.85;
+    z-index: 1;
+}
+.bg-14 {
+    height: 800px;
+    background-image: url("images-1/Ki-phan-trang.jpg");
+    background-size: 100% 1000px;
+    background-repeat: no-repeat;
+    opacity: 0.85;
+    z-index: 1;
+}
+.bg-15 {
+    height: 800px;
+    background-image: url("images-1/Ki-Jura.png");
+    background-size: 100% 1000px;
+    background-repeat: no-repeat;
+    opacity: 0.85;
+    z-index: 1;
+}
+.header-main  ul {
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+.header-main li {
+    display:inline;
+    text-decoration: none;
+}
+.header-main li a {
+    font-size: 20px;
+    display:inline-block;
+    padding:10px;
+    text-decoration: none !important;
+    text-transform: uppercase;
+}
+.box {
+    width: 200px;
+    height: 4px;
+    background-color: white;
+    z-index: 99;
+}
+
+/* Phân loại */
